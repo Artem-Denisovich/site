@@ -1,0 +1,5 @@
+<?
+$counters = <<<CNT
+
+CNT;
+?>
