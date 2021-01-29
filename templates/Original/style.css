@@ -1,0 +1,68 @@
+.bodyline    { background-color: #ECF2FC; border: 0px #98AAB1 solid; }
+.h1,.h2{
+            font-weight: bold; font-size: 22px; font-family: Verdana, Arial, Helvetica, sans-serif;
+            text-decoration: none; color : #000000;
+          }
+}
+.gentext { font-size : 12px; font-family: Arial, Helvetica, sans-serif; color: #000000}
+.gensmall { font-size : 8px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000}
+.mainmenu {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #333333;}
+
+.maintit {FONT-SIZE: 10pt; color:#333333; font-family: Verdana, Arial, Helvetica, sans-serif}
+.forumline    { background-color: #4887F7;}
+.catname { FONT-SIZE: 13px; font-family: Verdana, Arial, Helvetica, sans-serif}
+.catline    { background-color: #CBD3D9;}
+.forumline1 { background-color: #EFEFEF;}
+.forumline2 { background-color: #DEE3E7;}
+.dats { FONT-SIZE: 8pt; color:#333333; font-family: Verdana, Arial, Helvetica, sans-serif}
+.normal { FONT-SIZE: 10pt; color:#000000; font-family: Verdana, Arial, Helvetica, sans-serif}
+.medium { FONT-SIZE: 11pt; color:#333333; font-family: Verdana, Arial, Helvetica, sans-serif}
+.big { FONT-SIZE: 12pt; color:#333333; font-family: Verdana, Arial, Helvetica, sans-serif}
+.moder {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt;color : #990000}
+.statusline    { background-color: #FFFFFF; border: 1px #98AAB1 solid; }
+.forumbar { background-color: #E5E5E5; border: 1px #98AAB1 solid; }
+.top {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color : #000000}
+.frmtit {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color : #333333}
+.forumnobar { background-color: #E5E5E5;}
+.postclr1 { background-color: #EEEEEE;}
+.postclr2 { background-color: #FFFFFF;}
+.row1 { background-color: #EEEEEE;}
+.row2 { background-color: #FFFFFF;}
+.posttb {border-color: #999999 #999999 black; border-style: solid; border-top-width: 1px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}
+.topc {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #333333}
+.formtd { background-color: #FFFFFF; }
+.bodyform { background-color: #CBD3D9; border: 1px #98AAB1 solid; }
+.copyright        { font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #444444; letter-spacing: -1px;}
+a.copyright        { color: #444444; text-decoration: none;}
+a.copyright:hover { color: #000000; text-decoration: underline;}
+SELECT, option, textarea, input {   FONT-FAMILY:verdana,arial;color:#000000; FONT-SIZE: 12px; background-color:#eeeeee  }
+a:visited,a:active {text-decoration:none; color:#000099; font-weight:plain;}
+a:hover {text-decoration:underline; color:#000000; font-weight: plain;}
+.button { background-color:#FFFFFF; BORDER: #000000 1px outset;}
+.code { font-size: 11px; color:#333333; font-family: Verdana, Arial, Helvetica, sans-serif}
+.small {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000000}
+#Q { font-family: Verdana, Arial; font-size: 8pt; color: #333333; background-color: #FAFCFE; border: 1px solid Black; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px }
+.maintitle     { 
+            font-weight: bold; font-size: 24px; font-family: Arial, Helvetica, sans-serif;
+            text-decoration: none; color : #000099;
+ } .tab {  background-color: #ECF2FC; border: 1px #848A9C solid}
+.text {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; color: #000000}
+.tab_cat { background-color: #EFEFEF; border-color: #848A9C black; border-style: solid; border-top-width: 1px; border-bottom-width: 1px}
+.tab_for { background-color: #848A9C; border: #848A9C}
+.tab_down {  border-color: black black #848A9C; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 1px; border-left-width: 0px}
+.tab_up {  border-color: #848A9C black black; border-style: solid; border-top-width: 1px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}
+.tab_left {  border-color: black black black #848A9C; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 1px}
+.tab_right {  border-color: black #848A9C black black; border-style: solid; border-top-width: 0px; border-right-width: 1px; border-bottom-width: 0px; border-left-width: 0px}
+.tab_right_down { border-color: black #848A9C #848A9C black; border-style: solid; border-top-width: 0px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 0px}
+
+a:link { text-decoration:none; color:#000099; font-weight:plain; } .tab_left_right_down { border-color: black #848A9C #848A9C; border-style: solid; border-top-width: 0px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.tab_input { background-color: #FFFFFF; border: 1px #848A9C solid }
+.tab_left_right_up { border-color: #848A9C #848A9C black; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 0px; border-left-width: 1px; background-color: #ECF2FC}
+.tab_up_down { border-color: #848A9C black; border-style: solid; border-top-width: 1px; border-right-width: 0px; border-bottom-width: 1px; border-left-width: 0px}
+.tab_right_up { border-color: #848A9C #848A9C black black; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 0px; border-left-width: 0px}
+.tabshadow { background-color: #ECF2FC; border: 0px solid}
+.tab_select { border: solid; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; height: 10px; clip:   rect(   )}
+.notab { background-color: #ECF2FC}
+.helpline { background-color: #DEE3E7; border-style: none; } 
+.code_td,.php_td,.q_td,.quote_td { FONT-SIZE: 8pt; color:#333333; font-family: Verdana, Arial, Helvetica, sans-serif; }
+.code_table,.php_table,.q_table,.quote_table{background-color : #FFFFFF;border : 1px outset #CCCCCC;}
